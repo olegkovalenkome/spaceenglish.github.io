@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="224px" height="145px" viewBox="0 0 224 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>closed mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Raven's-Icon-Set" transform="translate(-226.000000, -364.000000)">
+            <g id="activation-sent-@2x" transform="translate(226.000000, 365.000000)">
+                <g id="closed-mail">
+                    <path d="M0.653954123,138.168625 L224,8.6 L224,134.995636 C224,139.416346 220.415919,143 215.994731,143 L8.00526927,143 C4.71324257,143 1.88320463,141.010964 0.653954123,138.168625 Z" id="right-side" fill="#A5ADBD"></path>
+                    <path d="M221.607591,142.13492 C220.216578,143.299464 218.422884,144 216.465039,144 L7.99791365,144 C3.5751919,144 0,140.420617 0,136.005224 L0,9.35064935 L221.607591,142.13492 Z" id="left-side" fill="#C8D0DE"></path>
+                    <path d="M110.345091,75.5414804 L120.878739,69.432145 L221.731933,142.028651 C221.6571,142.093936 221.581039,142.15785 221.503788,142.220356 L110.345091,75.5414804 Z" id="shadow" fill="#9AA2B2" filter="url(#filter-1)"></path>
+                    <path d="M0,9 L107.626295,98.5989292 C110.171775,100.718042 114.294775,100.714185 116.842529,98.5842485 L224,9 L0,9 Z" id="cover-shadow" fill="#474E5D"></path>
+                    <path d="M5.99145889,-0.0204034298 C2.68246752,-0.0207131185 0,2.66456413 0,5.98052208 L0,9.35064935 L107.555575,95.3740253 C110.140113,97.4411486 114.331308,97.4343497 116.913073,95.3618894 L224,9.3999939 L224,6.00638038 C224,2.68914809 221.308506,-0.000251897031 218.008541,-0.000560740925 L5.99145889,-0.0204034298 Z" id="cover" fill="#DDE5F2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

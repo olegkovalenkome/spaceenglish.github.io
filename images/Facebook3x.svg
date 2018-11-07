@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Facebook">
+            <path d="M0,90 C0,40.2943701 40.2943701,0 90,0 C139.70563,0 180,40.2943701 180,90 C180,139.70563 139.70563,180 90,180 C40.2943701,180 0,139.70563 0,90 Z" id="back" fill="#3B5998"></path>
+            <path d="M96.3808316,139.918038 L96.3808316,90.9532861 L109.897245,90.9532861 L111.688461,74.0797615 L96.3808316,74.0797615 L96.4037959,65.6344 C96.4037959,61.2335249 96.8219378,58.8754355 103.142865,58.8754355 L111.592776,58.8754355 L111.592776,42 L98.0744498,42 C81.8367656,42 76.1215217,50.1854748 76.1215217,63.9508694 L76.1215217,74.0816724 L66,74.0816724 L66,90.955197 L76.1215217,90.955197 L76.1215217,139.918038 L96.3808316,139.918038 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
